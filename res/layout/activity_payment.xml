@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mariana">
+
+    <!-- Payment details -->
+    <TextView
+        android:id="@+id/payment_details_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Payment Details"
+        android:textSize="24sp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"/>
+
+    <!-- Payment method selection -->
+    <RadioGroup
+        android:id="@+id/payment_method_radio_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/payment_details_text"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:background="@color/black">
+
+    </RadioGroup>
+
+    <!-- Pay button -->
+
+    <Button
+        android:id="@+id/pay_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/payment_method_radio_group"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="310dp"
+        android:layout_marginEnd="54dp"
+        android:text="Pay" />
+
+    <com.google.android.gms.wallet.button.PayButton
+        android:id="@+id/googlePayButton"
+        android:layout_width="218dp"
+        android:layout_height="64dp"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="405dp"
+        android:layout_marginEnd="178dp" />
+
+    <RadioButton
+        android:id="@+id/paypal_payment_radio_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="145dp"
+
+        android:layout_marginBottom="372dp"
+        android:text="Phonepe" />
+
+    <RadioButton
+        android:id="@+id/card_payment_radio_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="153dp"
+        android:layout_marginBottom="434dp"
+        android:text="Credit/Debit Card" />
+
+
+</RelativeLayout>
