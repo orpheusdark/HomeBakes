@@ -17,7 +17,7 @@ Homemakers Bakery Online Platform is an Android application designed to facilita
 - **Android SDK**: Development platform for building the Android application.
 - **Java**: Programming language used for Android app development.
 - **SQLite**: Local database management system for storing user and product data.
-- *(You can add more technologies if applicable)*
+
 
 ## Installation
 1. Clone the repository: `https://github.com/orpheusdark/HomeBakes.git`
