@@ -3,7 +3,7 @@
 # Homemakers Bakery Online Platform
 
 ## Introduction
-Homemakers Bakery Online Platform is an Android application designed to facilitate the online purchase of bakery products. It provides users with a convenient way to browse through a variety of bakery items, place orders, and make purchases. Additionally, it offers an administrative interface for managing product categories, prices, and availability.
+Homemakers Bakery Online Platform is an Basic Android application designed to facilitate the online purchase of bakery products. It provides users with a convenient way to browse through a variety of bakery items, place orders, and make purchases. Additionally, it offers an administrative interface for managing product categories, prices, and availability.
 
 ## Features
 - **User Authentication**: Basic login and sign-up functionality with local database using SQLite.
