@@ -1,6 +1,5 @@
-
-
 # Homemakers Bakery Online Platform
+
 
 ## Introduction
 Homemakers Bakery Online Platform is an Basic Android application designed to facilitate the online purchase of bakery products. It provides users with a convenient way to browse through a variety of bakery items, place orders, and make purchases. Additionally, it offers an administrative interface for managing product categories, prices, and availability.
@@ -35,9 +34,6 @@ Homemakers Bakery Online Platform is an Basic Android application designed to fa
 ![Screenshot_2024-04-19-15-13-05-924_com example cupcake](https://github.com/orpheusdark/HomeBakes/assets/117748842/d1496234-345c-471c-b4b8-72c047980554)
 ![Screenshot_2024-04-19-15-13-49-635_com example cupcake](https://github.com/orpheusdark/HomeBakes/assets/117748842/e7ffe588-dbf8-4395-bacf-d93478ed2d0b)
 ![Screenshot_2024-04-19-15-13-19-028_com example cupcake](https://github.com/orpheusdark/HomeBakes/assets/117748842/a0466849-7a01-49aa-ab20-be08f51d67b6)
-![Screenshot 2024-04-19 151742](https://github.com/orpheusdark/HomeBakes/assets/117748842/649cf12d-56a6-46e2-b7f9-f4a06d91276e)
-
-
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes.
@@ -45,6 +41,4 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-For any inquiries or support, please contact [your email address].
-
+## Creato Hackathon 2024
